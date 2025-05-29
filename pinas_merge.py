@@ -1,32 +1,31 @@
 import xml.etree.ElementTree as ET
-     import requests
-     from datetime import datetime
-     import os
+import requests
+from datetime import datetime
+import os
 
-     # Base URLs for EPG feeds with channel IDs
-     BASE_URL = 'https://epg.pw/api/epg.xml?lang=en&timezone={timezone}&date={date}&channel_id={channel_id}'
-     CHANNELS = [
-         {'id': '405058', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-         {'id': '412143', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-         {'id': '404926', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-         {'id': '405132', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-         {'id': '369842', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-         {'id': '403813', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-         {'id': '404871', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-         {'id': '429570', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-         {'id': '403541', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-         {'id': '7870', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
-         {'id': '70615', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
-         {'id': '322467', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
-         {'id': '7864', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
-         {'id': '322511', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
-         {'id': '322493', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
-         {'id': '408276', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
-         {'id': '429756', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
-         {'id': '429763', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
-         {'id': '322511', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},  # Duplicate handled by script
-         {'id': '322466', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'}
-     ]
+BASE_URL = 'https://epg.party/api/xmltv?lang=en&timezone={timezone}&date={date}&channel_id={channel_id}'
+CHANNELS = [
+{'id': '405058', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+{'id': '412143', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+{'id': '404926', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+{'id': '405132', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+{'id': '369842', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+{'id': '403813', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+{'id': '404871', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+{'id': '429570', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+{'id': '403541', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+{'id': '7870', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+{'id': '70615', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+{'id': '322467', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+{'id': '7864', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+{'id': '322511', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+{'id': '322493', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+{'id': '408276', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+{'id': '429756', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+{'id': '429763', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+{'id': '322511', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},  # Duplicate handled
+{'id': '322466', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'}
+]
 
      # Output file path
      OUTPUT_FILE = 'pinas_merged_feed.xml'
