@@ -31,11 +31,11 @@ CHANNELS = [
 # Output file path
 OUTPUT_FILE = 'pinas_merged_feed.xml'
 
-def fetch_xml_feed(channel_id, timezone):
+def fetch_xml_feed(channel_id, tz):
     """Fetch EPG XML content for a given channel and timezone."""
     # Use current date for dynamic updates
     current_date = datetime.now(timezone.utc).strftime('%Y%m%d')
-    url = BASE_URL.format(timezone=timezone, date=current_date, channel_id=channel_id)
+    url = BASE_URL.format(timezone=tz, date=current_date, channel_id=channel_id)
     try:
         response = requests.get(url, timeout=10)
         response.raise_for_status()
