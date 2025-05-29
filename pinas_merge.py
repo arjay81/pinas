@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 import requests
-from datetime import datetime, UTC
+from datetime import datetime, timezone
 import os
 
 # Base URL for EPG feeds with channel IDs
@@ -34,7 +34,7 @@ OUTPUT_FILE = 'pinas_merged_feed.xml'
 def fetch_xml_feed(channel_id, timezone):
     """Fetch EPG XML content for a given channel and timezone."""
     # Use current date for dynamic updates
-    current_date = datetime.now(UTC).strftime('%Y%m%d')
+    current_date = datetime.now(timezone.utc).strftime('%Y%m%d')
     url = BASE_URL.format(timezone=timezone, date=current_date, channel_id=channel_id)
     try:
         response = requests.get(url, timeout=10)
