@@ -23,6 +23,7 @@ CHANNELS = [
     {'id': '322493', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
     {'id': '408276', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
     {'id': '429756', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
+    {'id': '410426', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
     {'id': '429763', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
     {'id': '322511', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},  # Duplicate handled
     {'id': '322466', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'}
