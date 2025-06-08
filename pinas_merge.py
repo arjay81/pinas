@@ -9,7 +9,7 @@ CHANNELS = [
     {'id': '405058', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
     {'id': '412143', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
     {'id': '404926', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
-    {'id': '405132', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
+    {'id': '369794', 'timezone': 'QW1lcmljYS9Ub3JvbnRv'},
     {'id': '369842', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
     {'id': '403813', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
     {'id': '404871', 'timezone': 'VVMvRWFzdGVybg%3D%3D'},
