@@ -284,6 +284,250 @@
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
+<channel id="369794">
+    <display-name lang="Singapore">GMA News TV</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="369794" start="20250920001500 -0400" stop="20250920011500 -0400">
+    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+    <desc>Senator Alan Peter Cayetano and host Boy Abunda engage in insightful conversations on current events, social issues, and interviews with various guests. The show combines thought-provoking discussions with entertainment, offering diverse perspectives on important topics.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920011500 -0400" stop="20250920020000 -0400">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920020000 -0400" stop="20250920030000 -0400">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920030000 -0400" stop="20250920033000 -0400">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920033000 -0400" stop="20250920043000 -0400">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920043000 -0400" stop="20250920051500 -0400">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinéma vérité style documentary that often tackles social issues such as poverty and corruption.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920051500 -0400" stop="20250920060000 -0400">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920060000 -0400" stop="20250920070000 -0400">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920070000 -0400" stop="20250920080000 -0400">
+    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+    <desc>Senator Alan Peter Cayetano and host Boy Abunda engage in insightful conversations on current events, social issues, and interviews with various guests. The show combines thought-provoking discussions with entertainment, offering diverse perspectives on important topics.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920080000 -0400" stop="20250920084500 -0400">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920084500 -0400" stop="20250920093000 -0400">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920093000 -0400" stop="20250920100000 -0400">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920100000 -0400" stop="20250920104500 -0400">
+    <title lang="zh">One Western Visayas</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920104500 -0400" stop="20250920113000 -0400">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920113000 -0400" stop="20250920120000 -0400">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920120000 -0400" stop="20250920124500 -0400">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920124500 -0400" stop="20250920133000 -0400">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920133000 -0400" stop="20250920143000 -0400">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920143000 -0400" stop="20250920153000 -0400">
+    <title lang="zh">Investigative Documentaries</title>
+    <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920153000 -0400" stop="20250920160000 -0400">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920160000 -0400" stop="20250920170000 -0400">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920170000 -0400" stop="20250920180000 -0400">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920180000 -0400" stop="20250920190000 -0400">
+    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+    <desc>Senator Alan Peter Cayetano and host Boy Abunda engage in insightful conversations on current events, social issues, and interviews with various guests. The show combines thought-provoking discussions with entertainment, offering diverse perspectives on important topics.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920190000 -0400" stop="20250920193000 -0400">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinéma vérité style documentary that often tackles social issues such as poverty and corruption.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920193000 -0400" stop="20250920201500 -0400">
+    <title lang="zh">Imbestigador</title>
+    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920201500 -0400" stop="20250920203000 -0400">
+    <title lang="zh">Adulting with Atom Araullo</title>
+    <desc>A web series where Atom Araullo shares practical tips and personal experiences on navigating the everyday challenges of adult life, from budgeting to living independently.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920203000 -0400" stop="20250920211500 -0400">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920211500 -0400" stop="20250920220000 -0400">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920220000 -0400" stop="20250920230000 -0400">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250920230000 -0400" stop="20250921000000 -0400">
+    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+    <desc>Senator Alan Peter Cayetano and host Boy Abunda engage in insightful conversations on current events, social issues, and interviews with various guests. The show combines thought-provoking discussions with entertainment, offering diverse perspectives on important topics.</desc>
+    <date>2025-09-20</date>
+  </programme>
+  <programme channel="369794" start="20250921000000 -0400" stop="20250921004500 -0400">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinéma vérité style documentary that often tackles social issues such as poverty and corruption.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921004500 -0400" stop="20250921034500 -0400">
+    <title lang="zh">Dokumentaryo Marathon</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921034500 -0400" stop="20250921043000 -0400">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921043000 -0400" stop="20250921051500 -0400">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921051500 -0400" stop="20250921061500 -0400">
+    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+    <desc>Senator Alan Peter Cayetano and host Boy Abunda engage in insightful conversations on current events, social issues, and interviews with various guests. The show combines thought-provoking discussions with entertainment, offering diverse perspectives on important topics.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921061500 -0400" stop="20250921070000 -0400">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921070000 -0400" stop="20250921071500 -0400">
+    <title lang="zh">Adulting with Atom Araullo</title>
+    <desc>A web series where Atom Araullo shares practical tips and personal experiences on navigating the everyday challenges of adult life, from budgeting to living independently.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921071500 -0400" stop="20250921084500 -0400">
+    <title lang="zh">Alaala: A Martial Law Special</title>
+    <desc>A docudrama that follows activist Boni Ilagan's harrowing experience of torture and resistance during Martial Law, blending dramatized scenes starring Alden Richards with real interviews and historical context.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921084500 -0400" stop="20250921093000 -0400">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921093000 -0400" stop="20250921143000 -0400">
+    <title lang="zh">Reel Time Marathon</title>
+    <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921143000 -0400" stop="20250921151500 -0400">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921151500 -0400" stop="20250921160000 -0400">
+    <title lang="zh">Imbestigador</title>
+    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921160000 -0400" stop="20250921173000 -0400">
+    <title lang="zh">Dokumentaryo</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921173000 -0400" stop="20250921181500 -0400">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinéma vérité style documentary that often tackles social issues such as poverty and corruption.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921181500 -0400" stop="20250921194500 -0400">
+    <title lang="zh">Alaala: A Martial Law Special</title>
+    <desc>A docudrama that follows activist Boni Ilagan's harrowing experience of torture and resistance during Martial Law, blending dramatized scenes starring Alden Richards with real interviews and historical context.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921194500 -0400" stop="20250921203000 -0400">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250921203000 -0400" stop="20250922000000 -0400">
+    <title lang="zh">DOBOL B TV</title>
+    <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
+    <date>2025-09-21</date>
+  </programme>
+  <programme channel="369794" start="20250922000000 -0400" stop="20250923000000 -0400">
+    <title lang="zh">Dokumentaryo</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2025-09-22</date>
+  </programme>
 <channel id="369842">
     <display-name lang="Singapore">GMA Pinoy TV</display-name>
     <icon src="" />
