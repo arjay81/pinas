@@ -3,130 +3,105 @@
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
+  <programme channel="412143" start="20260602101500 -0400" stop="20260602121500 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602121500 -0400" stop="20260602125000 -0400">
+    <title lang="zh">Goin' Bulilit S15</title>
+    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602125000 -0400" stop="20260602132000 -0400">
+    <title lang="zh">Linlang</title>
+    <desc>This mystery-thriller series revolves around an alluring woman named Juliana and her illicit affair with Alex, a lawyer who also happens to be the brother of Juliana's husband, Victor, a washed-up boxer. What is the story behind Juliana's betrayal and infidelity?</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602132000 -0400" stop="20260602135000 -0400">
+    <title lang="zh">Blood VS. Duty</title>
+    <desc>This action drama series pits government agents against a tight-knit fishing community in a high-stakes battle over illegal firearms.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602135000 -0400" stop="20260602142000 -0400">
+    <title lang="zh">The Alibi</title>
+    <desc>Vincent is accused of killing his rival, Walter. To protect his reputation, he hires Stella, an escort with her own haunted past, to pose as his alibi. What begins as a transactional arrangement soon becomes dangerously real.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602142000 -0400" stop="20260602145000 -0400">
+    <title lang="zh">The Secrets of Hotel 88</title>
+    <desc>The Secrets of Hotel 88 dives into a gripping story of the estranged Fernandez brothers - Martin, Gio and Kiko - who unexpectedly inherit Hotel 88 following their father's death. Driven by conflicting motives, the three find themselves locked in escalating tension and a brewing family feud.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602145000 -0400" stop="20260602153000 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602153000 -0400" stop="20260602160000 -0400">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent goes on a dangerous mission to bring down a crime ring. Fuelled by a bitter and painful past, Apollo and his allies face the gruelling task that will challenge his resolve and strength.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602160000 -0400" stop="20260602173000 -0400">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602173000 -0400" stop="20260602193000 -0400">
+    <title lang="zh">Hiling</title>
+    <desc>Anna is given the power to grant any person's wish after placing her hands on the wish maker. She decides to use it to grant the dreams of her neighbours, but every intention given gradually backfires. How can Anna fix things if the wishes are irrevocable?</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602193000 -0400" stop="20260602200000 -0400">
+    <title lang="zh">Linlang</title>
+    <desc>This mystery-thriller series revolves around an alluring woman named Juliana and her illicit affair with Alex, a lawyer who also happens to be the brother of Juliana's husband, Victor, a washed-up boxer. What is the story behind Juliana's betrayal and infidelity?</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602200000 -0400" stop="20260602203000 -0400">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent goes on a dangerous mission to bring down a crime ring. Fuelled by a bitter and painful past, Apollo and his allies face the gruelling task that will challenge his resolve and strength.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602203000 -0400" stop="20260602210000 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602210000 -0400" stop="20260602213000 -0400">
+    <title lang="zh">2 Good 2 Be True</title>
+    <desc>Eloy and Ali are two people who had to live through the tragedies of their pasts and were scarred by love. In a world full of lies and deception, does true love exist?</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602213000 -0400" stop="20260602220000 -0400">
+    <title lang="zh">Goin' Bulilit S15</title>
+    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602220000 -0400" stop="20260602223000 -0400">
+    <title lang="zh">TFC Kids Zone</title>
+    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602223000 -0400" stop="20260602230000 -0400">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>A daily celebration of the Liturgy of the Lord.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260602230000 -0400" stop="20260603000000 -0400">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="412143" start="20260603000000 -0400" stop="20260604000000 -0400">
+    <title lang="zh">It's Showtime LIVE</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2026-06-03</date>
+  </programme>
 <channel id="410426">
     <display-name lang="Hong Kong">GMA Pinoy TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129230704777558_16" />
   </channel>
-  <programme channel="410426" start="20260531010000 -0400" stop="20260531030000 -0400">
-    <title lang="zh">All</title>
-    <desc>GMA's weekend musical comedy variety show that showcases a fun musical experience.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531030000 -0400" stop="20260531034500 -0400">
-    <title lang="zh">Tbats On The Go</title>
-    <desc>is a comedy program that features a variety of entertaining skits, pranks, MOS interviews, street performances, live musical numbers and other hilarious segments. Hosted by the dynamic and hilarious duo Boobay and Tekla, delivers a full entertainment experience that's guaranteed to liven up your weekends.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531034500 -0400" stop="20260531043000 -0400">
-    <title lang="zh">Maka 2</title>
-    <desc>It is a youth-oriented drama series that follows the lives of six high school students enrolled in the Arts &amp; Performance section of public school, Douglas Mac Arthur High School for the Arts aka. MAKA.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531043000 -0400" stop="20260531050000 -0400">
-    <title lang="zh">Make Your Marc Season 3</title>
-    <desc>The show highlights the Filipino game changers who have made an impact in their careers and profession.  The program will share heartfelt stories and showcase their struggles and successes.  These are the Filipino trail blazers that have ultimately ‘made their marc' in the community.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531050000 -0400" stop="20260531053000 -0400">
-    <title lang="zh">I</title>
-    <desc>A documentary on the different issues in society hosted by a set of trusted broadcast journalists in the country</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531053000 -0400" stop="20260531071500 -0400">
-    <title lang="zh">Kapuso Mo Jessica Soho</title>
-    <desc>Features the lighter side of veteran journalist, Jessica Soho, and highlights insightful stories of a wide range of topics</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531071500 -0400" stop="20260531080000 -0400">
-    <title lang="zh">24 Oras Weekend</title>
-    <desc>A weekend report on the latest happenings in the Philippines and around the world.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531080000 -0400" stop="20260531081500 -0400">
-    <title lang="zh">Amazing Earth</title>
-    <desc>An infotainment show exploring the Philippines, featuring its natural formations, diverse terrains, and fascinating flora and fauna.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531081500 -0400" stop="20260531091500 -0400">
-    <title lang="zh">Magpakailanman</title>
-    <desc>A drama anthology featuring real-life inspired stories.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531091500 -0400" stop="20260531101500 -0400">
-    <title lang="zh">Stars On The Floor 2026</title>
-    <desc>The program is set to bring together the biggest names from TV and the digital world, all paired up for the country's biggest dance-collab competition.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531101500 -0400" stop="20260531110000 -0400">
-    <title lang="zh">Heart World Season 2</title>
-    <desc>In this limited series, Heart takes viewers deeper into her world-sharing her life, style, successes, failures, challenges, and the emotional lessons learned along the way.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531110000 -0400" stop="20260531113000 -0400">
-    <title lang="zh">Tadhana</title>
-    <desc>An Overseas Filipino Workers themed weekly anthology that will dramatize the colorful, romantic, heroic, and inspiring stories of OFWs.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531113000 -0400" stop="20260531120000 -0400">
-    <title lang="zh">Planet Xp</title>
-    <desc>the show merges gaming-inspired 'experience points' (XP) with Philippine adventures, covering culture, nature, and community stories in partnership with the National Council for Children's Television.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531120000 -0400" stop="20260531124500 -0400">
-    <title lang="zh">24 Oras Weekend</title>
-    <desc>A weekend report on the latest happenings in the Philippines and around the world.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531124500 -0400" stop="20260531142500 -0400">
-    <title lang="zh">GMA Pinoy Blockbuster: 'Balatkayo'</title>
-    <desc>An overseas worker is forced to go back to her home country to deal with her son, whose explicit video has gone viral.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531142500 -0400" stop="20260531151500 -0400">
-    <title lang="zh">Magpakailanman</title>
-    <desc>A drama anthology featuring real-life inspired stories.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531151500 -0400" stop="20260531161500 -0400">
-    <title lang="zh">Stars On The Floor 2026</title>
-    <desc>The program is set to bring together the biggest names from TV and the digital world, all paired up for the country's biggest dance-collab competition.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531161500 -0400" stop="20260531181500 -0400">
-    <title lang="zh">GMA Pinoy Blockbuster: 'Sakada'</title>
-    <desc>Is a Philippine social-realist film about the ordeals of sugarcane farmers on the island of Negros in the Philippines.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531181500 -0400" stop="20260531190000 -0400">
-    <title lang="zh">Agripreneur</title>
-    <desc>The Philippines's premier award-winning agriculture show. The program showcases success stories in Filipino innovation, resilience, and growing agribusiness opportunities.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531190000 -0400" stop="20260531200000 -0400">
-    <title lang="zh">Stars On The Floor 2026</title>
-    <desc>The program is set to bring together the biggest names from TV and the digital world, all paired up for the country's biggest dance-collab competition.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531200000 -0400" stop="20260531203000 -0400">
-    <title lang="zh">Apoy Sa Dugo</title>
-    <desc>A psychological thriller and family-centered drama about sibling rivalry-where love for family can turn into obsession. Bound by blood yet divided by choices, it's a gripping story of secrets, betrayal, and revenge-proving that sometimes, the deepest wounds come from the people you trust most.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531203000 -0400" stop="20260531210000 -0400">
-    <title lang="zh">Kamao</title>
-    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531210000 -0400" stop="20260531213000 -0400">
-    <title lang="zh">Born To Shine</title>
-    <desc>The series revolves around music and chasing dreams.</desc>
-    <date>2026-05-31</date>
-  </programme>
-  <programme channel="410426" start="20260531213000 -0400" stop="20260601000000 -0400">
-    <title lang="zh">Unang Hirit</title>
-    <desc>A news magazine show that offers humor and information from  hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
-    <date>2026-05-31</date>
-  </programme>
   <programme channel="410426" start="20260601000000 -0400" stop="20260601023000 -0400">
     <title lang="zh">It's Showtime</title>
     <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
@@ -267,9 +242,154 @@
     <desc>A news magazine show that offers humor and information from  hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
     <date>2026-06-01</date>
   </programme>
-  <programme channel="410426" start="20260602000000 -0400" stop="20260603000000 -0400">
+  <programme channel="410426" start="20260602000000 -0400" stop="20260602023000 -0400">
     <title lang="zh">It's Showtime</title>
     <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
     <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602023000 -0400" stop="20260602032000 -0400">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602032000 -0400" stop="20260602035000 -0400">
+    <title lang="zh">Apoy Sa Dugo</title>
+    <desc>A psychological thriller and family-centered drama about sibling rivalry-where love for family can turn into obsession. Bound by blood yet divided by choices, it's a gripping story of secrets, betrayal, and revenge-proving that sometimes, the deepest wounds come from the people you trust most.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602035000 -0400" stop="20260602042000 -0400">
+    <title lang="zh">Born To Shine</title>
+    <desc>The series revolves around music and chasing dreams.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602042000 -0400" stop="20260602050000 -0400">
+    <title lang="zh">Kamao</title>
+    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602050000 -0400" stop="20260602054000 -0400">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>It centers on a specialized team against cybercrime.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602054000 -0400" stop="20260602061500 -0400">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602061500 -0400" stop="20260602064500 -0400">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602064500 -0400" stop="20260602071500 -0400">
+    <title lang="zh">Fast Talk With Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602071500 -0400" stop="20260602085000 -0400">
+    <title lang="zh">24 Oras</title>
+    <desc>Gives an up-to-the minute news here and around the world.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602085000 -0400" stop="20260602093500 -0400">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602093500 -0400" stop="20260602102000 -0400">
+    <title lang="zh">The Secrets Of Hotel 88</title>
+    <desc>It tells the story of three estranged brothers who discovered that they are part of the same family. And while they will inherit a hotel, they will also inherit its secrets. However, a rival family claims their rights on the land where the hotel stands, and a fight to take the hotel ensues, and the secrets that are kept starts to get uncovered.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602102000 -0400" stop="20260602110000 -0400">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>It centers on a specialized team against cybercrime.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602110000 -0400" stop="20260602113000 -0400">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602113000 -0400" stop="20260602120000 -0400">
+    <title lang="zh">Fast Talk With Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602120000 -0400" stop="20260602123000 -0400">
+    <title lang="zh">Apoy Sa Dugo</title>
+    <desc>A psychological thriller and family-centered drama about sibling rivalry-where love for family can turn into obsession. Bound by blood yet divided by choices, it's a gripping story of secrets, betrayal, and revenge-proving that sometimes, the deepest wounds come from the people you trust most.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602123000 -0400" stop="20260602130000 -0400">
+    <title lang="zh">Kamao</title>
+    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602130000 -0400" stop="20260602134000 -0400">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602134000 -0400" stop="20260602142000 -0400">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>It centers on a specialized team against cybercrime.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602142000 -0400" stop="20260602150000 -0400">
+    <title lang="zh">The Secrets Of Hotel 88</title>
+    <desc>It tells the story of three estranged brothers who discovered that they are part of the same family. And while they will inherit a hotel, they will also inherit its secrets. However, a rival family claims their rights on the land where the hotel stands, and a fight to take the hotel ensues, and the secrets that are kept starts to get uncovered.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602150000 -0400" stop="20260602170000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602170000 -0400" stop="20260602174500 -0400">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news, relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602174500 -0400" stop="20260602181500 -0400">
+    <title lang="zh">The 700 Club Asia</title>
+    <desc>The 700 Club Asia is the flagship program of CBN Asia, designed to bring stories of transformation, hope, and God's love to Filipinos worldwide.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602181500 -0400" stop="20260602191000 -0400">
+    <title lang="zh">Pepito Manaloto, Tuloy Ang Kuwento</title>
+    <desc>The continuing comedic chronicle of the life of Pepito Manaloto, a lucky multimillion lotto winner, his family, and the merry mix of neighbors and colleagues.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602191000 -0400" stop="20260602200000 -0400">
+    <title lang="zh">Bblgang</title>
+    <desc>A refreshing, exciting and funny show with an assortment of gags, spoofs, and comic performances.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602200000 -0400" stop="20260602203000 -0400">
+    <title lang="zh">Apoy Sa Dugo</title>
+    <desc>A psychological thriller and family-centered drama about sibling rivalry-where love for family can turn into obsession. Bound by blood yet divided by choices, it's a gripping story of secrets, betrayal, and revenge-proving that sometimes, the deepest wounds come from the people you trust most.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602203000 -0400" stop="20260602210000 -0400">
+    <title lang="zh">Kamao</title>
+    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602210000 -0400" stop="20260602213000 -0400">
+    <title lang="zh">Born To Shine</title>
+    <desc>The series revolves around music and chasing dreams.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260602213000 -0400" stop="20260603000000 -0400">
+    <title lang="zh">Unang Hirit</title>
+    <desc>A news magazine show that offers humor and information from  hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
+    <date>2026-06-02</date>
+  </programme>
+  <programme channel="410426" start="20260603000000 -0400" stop="20260604000000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2026-06-03</date>
   </programme>
 </tv>
