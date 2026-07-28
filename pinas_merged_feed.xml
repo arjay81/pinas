@@ -3,26 +3,6 @@
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
-  <programme channel="412143" start="20260727000000 -0400" stop="20260727060000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="412143" start="20260727060000 -0400" stop="20260727120000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="412143" start="20260727120000 -0400" stop="20260727180000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="412143" start="20260727180000 -0400" stop="20260728000000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-27</date>
-  </programme>
   <programme channel="412143" start="20260728000000 -0400" stop="20260728060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
@@ -43,155 +23,35 @@
     <desc />
     <date>2026-07-28</date>
   </programme>
-  <programme channel="412143" start="20260729000000 -0400" stop="20260730000000 -0400">
+  <programme channel="412143" start="20260729000000 -0400" stop="20260729060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
     <date>2026-07-29</date>
+  </programme>
+  <programme channel="412143" start="20260729060000 -0400" stop="20260729120000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="412143" start="20260729120000 -0400" stop="20260729180000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="412143" start="20260729180000 -0400" stop="20260730000000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="412143" start="20260730000000 -0400" stop="20260731000000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-30</date>
   </programme>
 <channel id="410426">
     <display-name lang="Hong Kong">GMA Pinoy TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129230704777558_16" />
   </channel>
-  <programme channel="410426" start="20260727000000 -0400" stop="20260727023000 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727023000 -0400" stop="20260727032000 -0400">
-    <title lang="zh">Tiktoclock: Happy Hour Na</title>
-    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727032000 -0400" stop="20260727035000 -0400">
-    <title lang="zh">You're My Favorite Song</title>
-    <desc>Angel, a brilliant young girl, races to fulfill her dying grandfather's bucket list-starting with building a resort on their beachfront land. To succeed, she must outsmart powerful moguls trying to seize the property while enlisting her classmates' help to run the business in exchange for tutoring.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727035000 -0400" stop="20260727042000 -0400">
-    <title lang="zh">Born To Shine</title>
-    <desc>The series revolves around music and chasing dreams.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727042000 -0400" stop="20260727050000 -0400">
-    <title lang="zh">Kamao</title>
-    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727050000 -0400" stop="20260727054000 -0400">
-    <title lang="zh">Task Force Firewall</title>
-    <desc>It centers on a specialized team against cybercrime.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727054000 -0400" stop="20260727061500 -0400">
-    <title lang="zh">The Master Cutter</title>
-    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727061500 -0400" stop="20260727064500 -0400">
-    <title lang="zh">Family Feud</title>
-    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727064500 -0400" stop="20260727071500 -0400">
-    <title lang="zh">Fast Talk With Boy Abunda</title>
-    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727071500 -0400" stop="20260727085000 -0400">
-    <title lang="zh">24 Oras</title>
-    <desc>Gives an up-to-the minute news here and around the world.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727085000 -0400" stop="20260727093000 -0400">
-    <title lang="zh">The Master Cutter</title>
-    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727093000 -0400" stop="20260727101000 -0400">
-    <title lang="zh">Task Force Firewall</title>
-    <desc>It centers on a specialized team against cybercrime.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727101000 -0400" stop="20260727105000 -0400">
-    <title lang="zh">First Yaya</title>
-    <desc>First Yaya' is the aspirational, fairy-tale-like story of an ordinary woman who gets to lead an extraordinary life as the nanny of the children of a widower Philippine Vice-President who eventually becomes the President by accession and election.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727105000 -0400" stop="20260727113000 -0400">
-    <title lang="zh">Family Feud</title>
-    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727113000 -0400" stop="20260727120000 -0400">
-    <title lang="zh">Fast Talk With Boy Abunda</title>
-    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727120000 -0400" stop="20260727123000 -0400">
-    <title lang="zh">You're My Favorite Song</title>
-    <desc>Angel, a brilliant young girl, races to fulfill her dying grandfather's bucket list-starting with building a resort on their beachfront land. To succeed, she must outsmart powerful moguls trying to seize the property while enlisting her classmates' help to run the business in exchange for tutoring.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727123000 -0400" stop="20260727130000 -0400">
-    <title lang="zh">Kamao</title>
-    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727130000 -0400" stop="20260727134000 -0400">
-    <title lang="zh">The Master Cutter</title>
-    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727134000 -0400" stop="20260727142000 -0400">
-    <title lang="zh">Task Force Firewall</title>
-    <desc>It centers on a specialized team against cybercrime.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727142000 -0400" stop="20260727150000 -0400">
-    <title lang="zh">First Yaya</title>
-    <desc>First Yaya' is the aspirational, fairy-tale-like story of an ordinary woman who gets to lead an extraordinary life as the nanny of the children of a widower Philippine Vice-President who eventually becomes the President by accession and election.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727150000 -0400" stop="20260727170000 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727170000 -0400" stop="20260727174500 -0400">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news, relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727174500 -0400" stop="20260727181500 -0400">
-    <title lang="zh">The 700 Club Asia</title>
-    <desc>The 700 Club Asia is the flagship program of CBN Asia, designed to bring stories of transformation, hope, and God's love to Filipinos worldwide.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727181500 -0400" stop="20260727200000 -0400">
-    <title lang="zh">Kapuso Mo Jessica Soho</title>
-    <desc>Features the lighter side of veteran journalist, Jessica Soho, and highlights insightful stories of a wide range of topics</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727200000 -0400" stop="20260727203000 -0400">
-    <title lang="zh">You're My Favorite Song</title>
-    <desc>Angel, a brilliant young girl, races to fulfill her dying grandfather's bucket list-starting with building a resort on their beachfront land. To succeed, she must outsmart powerful moguls trying to seize the property while enlisting her classmates' help to run the business in exchange for tutoring.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727203000 -0400" stop="20260727210000 -0400">
-    <title lang="zh">Kamao</title>
-    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727210000 -0400" stop="20260727213000 -0400">
-    <title lang="zh">Born To Shine</title>
-    <desc>The series revolves around music and chasing dreams.</desc>
-    <date>2026-07-27</date>
-  </programme>
-  <programme channel="410426" start="20260727213000 -0400" stop="20260728000000 -0400">
-    <title lang="zh">Unang Hirit</title>
-    <desc>A news magazine show that offers humor and information from  hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
-    <date>2026-07-27</date>
-  </programme>
   <programme channel="410426" start="20260728000000 -0400" stop="20260728023000 -0400">
     <title lang="zh">It's Showtime</title>
     <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
@@ -337,9 +197,159 @@
     <desc>A news magazine show that offers humor and information from  hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
     <date>2026-07-28</date>
   </programme>
-  <programme channel="410426" start="20260729000000 -0400" stop="20260730000000 -0400">
+  <programme channel="410426" start="20260729000000 -0400" stop="20260729023000 -0400">
     <title lang="zh">It's Showtime</title>
     <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
     <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729023000 -0400" stop="20260729032000 -0400">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729032000 -0400" stop="20260729035000 -0400">
+    <title lang="zh">You're My Favorite Song</title>
+    <desc>Angel, a brilliant young girl, races to fulfill her dying grandfather's bucket list-starting with building a resort on their beachfront land. To succeed, she must outsmart powerful moguls trying to seize the property while enlisting her classmates' help to run the business in exchange for tutoring.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729035000 -0400" stop="20260729042000 -0400">
+    <title lang="zh">Born To Shine</title>
+    <desc>The series revolves around music and chasing dreams.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729042000 -0400" stop="20260729050000 -0400">
+    <title lang="zh">Kamao</title>
+    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729050000 -0400" stop="20260729054000 -0400">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>It centers on a specialized team against cybercrime.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729054000 -0400" stop="20260729061500 -0400">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729061500 -0400" stop="20260729064500 -0400">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729064500 -0400" stop="20260729071500 -0400">
+    <title lang="zh">Fast Talk With Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729071500 -0400" stop="20260729085000 -0400">
+    <title lang="zh">24 Oras</title>
+    <desc>Gives an up-to-the minute news here and around the world.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729085000 -0400" stop="20260729093000 -0400">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729093000 -0400" stop="20260729101000 -0400">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>It centers on a specialized team against cybercrime.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729101000 -0400" stop="20260729105000 -0400">
+    <title lang="zh">First Yaya</title>
+    <desc>First Yaya' is the aspirational, fairy-tale-like story of an ordinary woman who gets to lead an extraordinary life as the nanny of the children of a widower Philippine Vice-President who eventually becomes the President by accession and election.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729105000 -0400" stop="20260729113000 -0400">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729113000 -0400" stop="20260729120000 -0400">
+    <title lang="zh">Fast Talk With Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729120000 -0400" stop="20260729123000 -0400">
+    <title lang="zh">You're My Favorite Song</title>
+    <desc>Angel, a brilliant young girl, races to fulfill her dying grandfather's bucket list-starting with building a resort on their beachfront land. To succeed, she must outsmart powerful moguls trying to seize the property while enlisting her classmates' help to run the business in exchange for tutoring.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729123000 -0400" stop="20260729130000 -0400">
+    <title lang="zh">Kamao</title>
+    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729130000 -0400" stop="20260729134000 -0400">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729134000 -0400" stop="20260729142000 -0400">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>It centers on a specialized team against cybercrime.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729142000 -0400" stop="20260729150000 -0400">
+    <title lang="zh">First Yaya</title>
+    <desc>First Yaya' is the aspirational, fairy-tale-like story of an ordinary woman who gets to lead an extraordinary life as the nanny of the children of a widower Philippine Vice-President who eventually becomes the President by accession and election.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729150000 -0400" stop="20260729170000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729170000 -0400" stop="20260729174500 -0400">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news, relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729174500 -0400" stop="20260729181500 -0400">
+    <title lang="zh">The 700 Club Asia</title>
+    <desc>The 700 Club Asia is the flagship program of CBN Asia, designed to bring stories of transformation, hope, and God's love to Filipinos worldwide.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729181500 -0400" stop="20260729184500 -0400">
+    <title lang="zh">I</title>
+    <desc>A documentary on the different issues in society hosted by a set of trusted broadcast journalists in the country</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729184500 -0400" stop="20260729193000 -0400">
+    <title lang="zh">Tadhana</title>
+    <desc>An Overseas Filipino Workers themed weekly anthology that will dramatize the colorful, romantic, heroic, and inspiring stories of OFWs.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729193000 -0400" stop="20260729200000 -0400">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of weekly specials which feature timely, feel-good stories.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729200000 -0400" stop="20260729203000 -0400">
+    <title lang="zh">You're My Favorite Song</title>
+    <desc>Angel, a brilliant young girl, races to fulfill her dying grandfather's bucket list-starting with building a resort on their beachfront land. To succeed, she must outsmart powerful moguls trying to seize the property while enlisting her classmates' help to run the business in exchange for tutoring.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729203000 -0400" stop="20260729210000 -0400">
+    <title lang="zh">Kamao</title>
+    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729210000 -0400" stop="20260729213000 -0400">
+    <title lang="zh">Born To Shine</title>
+    <desc>The series revolves around music and chasing dreams.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260729213000 -0400" stop="20260730000000 -0400">
+    <title lang="zh">Unang Hirit</title>
+    <desc>A news magazine show that offers humor and information from  hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
+    <date>2026-07-29</date>
+  </programme>
+  <programme channel="410426" start="20260730000000 -0400" stop="20260731000000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2026-07-30</date>
   </programme>
 </tv>
