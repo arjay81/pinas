@@ -3,81 +3,6 @@
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
-  <programme channel="412143" start="20260807000000 -0400" stop="20260807023000 -0400">
-    <title lang="zh">It's Showtime LIVE</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807023000 -0400" stop="20260807030000 -0400">
-    <title lang="zh">Radyo Patrol Balita</title>
-    <desc>Radyo Patrol Balita focuses on delivering the latest news, breaking events, and important issues that matter to you.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807030000 -0400" stop="20260807040000 -0400">
-    <title lang="zh">Tandem Ng Bayan</title>
-    <desc>Tandem Ng Bayan brings you discussions on the day's top news stories, providing analysis and engaging in commentary on political as well as social issues.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807040000 -0400" stop="20260807043000 -0400">
-    <title lang="zh">Oh My Gan!</title>
-    <desc>Hosted by Ganiel Krishnan, this entertainment podcast and digital talk show features candid conversations with top actors, musicians and public personalities, as well as an interactive Jenga segment that brings out unscripted, unfiltered moments.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807043000 -0400" stop="20260807050000 -0400">
-    <title lang="zh">TFC Kids Zone</title>
-    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807050000 -0400" stop="20260807053000 -0400">
-    <title lang="zh">Goin' Bulilit S15</title>
-    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807053000 -0400" stop="20260807054500 -0400">
-    <title lang="zh">TV Patrol Express Live</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807054500 -0400" stop="20260807063000 -0400">
-    <title lang="zh">2 Good 2 Be True</title>
-    <desc>Eloy and Ali are two people who had to live through the tragedies of their pasts and were scarred by love. In a world full of lies and deception, does true love exist?</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807063000 -0400" stop="20260807080000 -0400">
-    <title lang="zh">TV Patrol Live</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807080000 -0400" stop="20260807084500 -0400">
-    <title lang="zh">Sigabo</title>
-    <desc>After eight years in prison, Gabo gets parole but must join a covert government programme for dangerous missions. He meets lawyer Sam, also an investigative agent, sparking a complex love-hate relationship.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807084500 -0400" stop="20260807093000 -0400">
-    <title lang="zh">Someone, Someday</title>
-    <desc>A young dating app CEO unknowingly befriends someone seeking revenge, putting her business, family and dreams in jeopardy.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807093000 -0400" stop="20260807100000 -0400">
-    <title lang="zh">Oh My Gan!</title>
-    <desc>Hosted by Ganiel Krishnan, this entertainment podcast and digital talk show features candid conversations with top actors, musicians and public personalities, as well as an interactive Jenga segment that brings out unscripted, unfiltered moments.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807100000 -0400" stop="20260807121500 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807121500 -0400" stop="20260807180000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="412143" start="20260807180000 -0400" stop="20260808000000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-08-07</date>
-  </programme>
   <programme channel="412143" start="20260808000000 -0400" stop="20260808060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
@@ -98,150 +23,35 @@
     <desc />
     <date>2026-08-08</date>
   </programme>
-  <programme channel="412143" start="20260809000000 -0400" stop="20260810000000 -0400">
+  <programme channel="412143" start="20260809000000 -0400" stop="20260809060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
     <date>2026-08-09</date>
+  </programme>
+  <programme channel="412143" start="20260809060000 -0400" stop="20260809120000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="412143" start="20260809120000 -0400" stop="20260809180000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="412143" start="20260809180000 -0400" stop="20260810000000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="412143" start="20260810000000 -0400" stop="20260811000000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-08-10</date>
   </programme>
 <channel id="410426">
     <display-name lang="Hong Kong">GMA Pinoy TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129230704777558_16" />
   </channel>
-  <programme channel="410426" start="20260807000000 -0400" stop="20260807023000 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807023000 -0400" stop="20260807032000 -0400">
-    <title lang="zh">Tiktoclock: Happy Hour Na</title>
-    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807032000 -0400" stop="20260807035000 -0400">
-    <title lang="zh">Maria Clara At Ibarra</title>
-    <desc>Klay, a Gen Z nursing student, is transported into Jose Rizal's novels after reading Noli Me Tangere. There, she meets Maria Clara, Crisostomo Ibarra, and other characters.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807035000 -0400" stop="20260807042000 -0400">
-    <title lang="zh">Born To Shine</title>
-    <desc>The series revolves around music and chasing dreams.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807042000 -0400" stop="20260807050000 -0400">
-    <title lang="zh">Kamao</title>
-    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807050000 -0400" stop="20260807054000 -0400">
-    <title lang="zh">Task Force Firewall</title>
-    <desc>It centers on a specialized team against cybercrime.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807054000 -0400" stop="20260807061500 -0400">
-    <title lang="zh">The Master Cutter</title>
-    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807061500 -0400" stop="20260807064500 -0400">
-    <title lang="zh">Family Feud</title>
-    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807064500 -0400" stop="20260807071500 -0400">
-    <title lang="zh">Fast Talk With Boy Abunda</title>
-    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807071500 -0400" stop="20260807085000 -0400">
-    <title lang="zh">24 Oras</title>
-    <desc>Gives an up-to-the minute news here and around the world.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807085000 -0400" stop="20260807093000 -0400">
-    <title lang="zh">The Master Cutter</title>
-    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807093000 -0400" stop="20260807101000 -0400">
-    <title lang="zh">Task Force Firewall</title>
-    <desc>It centers on a specialized team against cybercrime.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807101000 -0400" stop="20260807105000 -0400">
-    <title lang="zh">First Yaya</title>
-    <desc>First Yaya' is the aspirational, fairy-tale-like story of an ordinary woman who gets to lead an extraordinary life as the nanny of the children of a widower Philippine Vice-President who eventually becomes the President by accession and election.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807105000 -0400" stop="20260807113000 -0400">
-    <title lang="zh">Family Feud</title>
-    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807113000 -0400" stop="20260807120000 -0400">
-    <title lang="zh">Fast Talk With Boy Abunda</title>
-    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807120000 -0400" stop="20260807123000 -0400">
-    <title lang="zh">Maria Clara At Ibarra</title>
-    <desc>Klay, a Gen Z nursing student, is transported into Jose Rizal's novels after reading Noli Me Tangere. There, she meets Maria Clara, Crisostomo Ibarra, and other characters.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807123000 -0400" stop="20260807130000 -0400">
-    <title lang="zh">Kamao</title>
-    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807130000 -0400" stop="20260807134000 -0400">
-    <title lang="zh">The Master Cutter</title>
-    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807134000 -0400" stop="20260807142000 -0400">
-    <title lang="zh">Task Force Firewall</title>
-    <desc>It centers on a specialized team against cybercrime.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807142000 -0400" stop="20260807150000 -0400">
-    <title lang="zh">First Yaya</title>
-    <desc>First Yaya' is the aspirational, fairy-tale-like story of an ordinary woman who gets to lead an extraordinary life as the nanny of the children of a widower Philippine Vice-President who eventually becomes the President by accession and election.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807150000 -0400" stop="20260807170000 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807170000 -0400" stop="20260807174500 -0400">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news, relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807174500 -0400" stop="20260807181500 -0400">
-    <title lang="zh">The 700 Club Asia</title>
-    <desc>The 700 Club Asia is the flagship program of CBN Asia, designed to bring stories of transformation, hope, and God's love to Filipinos worldwide.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807181500 -0400" stop="20260807211500 -0400">
-    <title lang="zh">Task Force Firewall Marathon</title>
-    <desc>It centers on a specialized team against cybercrime.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807211500 -0400" stop="20260807214500 -0400">
-    <title lang="zh">Born To Shine</title>
-    <desc>The series revolves around music and chasing dreams.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807214500 -0400" stop="20260807221500 -0400">
-    <title lang="zh">Reporter's Notebook</title>
-    <desc>Features stories culled from the reporters' own files, news that people did not see on the news programs. The show is written and hosted by the network's aggressive young reporters and hosted by the network.</desc>
-    <date>2026-08-07</date>
-  </programme>
-  <programme channel="410426" start="20260807221500 -0400" stop="20260808000000 -0400">
-    <title lang="zh">Kapuso Mo Jessica Soho</title>
-    <desc>Features the lighter side of veteran journalist, Jessica Soho, and highlights insightful stories of a wide range of topics</desc>
-    <date>2026-08-07</date>
-  </programme>
   <programme channel="410426" start="20260808000000 -0400" stop="20260808023000 -0400">
     <title lang="zh">It's Showtime</title>
     <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
@@ -371,5 +181,120 @@
     <title lang="zh">GMA Pinoy Blockbuster: 'Balota'</title>
     <desc>A teacher puts her life on the line to protect a ballot box full of crucial votes as corrupt forces threaten to overturn a key local election.</desc>
     <date>2026-08-08</date>
+  </programme>
+  <programme channel="410426" start="20260809010000 -0400" stop="20260809024500 -0400">
+    <title lang="zh">All</title>
+    <desc>GMA's weekend musical comedy variety show that showcases a fun musical experience.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809024500 -0400" stop="20260809033000 -0400">
+    <title lang="zh">The People Have Spoken</title>
+    <desc>It is a high-energy game show where celebrity teams try to guess what everyday Filipinos are thinking. To win the big prize, the two teams of celebrity contestants must predict the most popular opinions and answers of the People.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809033000 -0400" stop="20260809050000 -0400">
+    <title lang="zh">Rebuilding Broken Rooms: A GMA Public Affairs' Education Special</title>
+    <desc>The special will look into the state of Philippine education**-uncovering the root causes, the human stories behind the statistics,** and the solutions that could reshape the nation's future.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809050000 -0400" stop="20260809053000 -0400">
+    <title lang="zh">I</title>
+    <desc>A documentary on the different issues in society hosted by a set of trusted broadcast journalists in the country</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809053000 -0400" stop="20260809071500 -0400">
+    <title lang="zh">Kapuso Mo Jessica Soho</title>
+    <desc>Features the lighter side of veteran journalist, Jessica Soho, and highlights insightful stories of a wide range of topics</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809071500 -0400" stop="20260809080000 -0400">
+    <title lang="zh">24 Oras Weekend</title>
+    <desc>A weekend report on the latest happenings in the Philippines and around the world.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809080000 -0400" stop="20260809081500 -0400">
+    <title lang="zh">Amazing Earth</title>
+    <desc>An infotainment show exploring the Philippines, featuring its natural formations, diverse terrains, and fascinating flora and fauna.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809081500 -0400" stop="20260809091500 -0400">
+    <title lang="zh">Magpakailanman</title>
+    <desc>A drama anthology featuring real-life inspired stories.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809091500 -0400" stop="20260809101500 -0400">
+    <title lang="zh">The Clash Teens 2026</title>
+    <desc>All-original Filipino singing competition, The Clash, is making a comeback and this time, the spotlight is on a whole new generation.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809101500 -0400" stop="20260809110000 -0400">
+    <title lang="zh">The People Have Spoken</title>
+    <desc>It is a high-energy game show where celebrity teams try to guess what everyday Filipinos are thinking. To win the big prize, the two teams of celebrity contestants must predict the most popular opinions and answers of the People.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809110000 -0400" stop="20260809123000 -0400">
+    <title lang="zh">Rebuilding Broken Rooms: A GMA Public Affairs' Education Special</title>
+    <desc>The special will look into the state of Philippine education**-uncovering the root causes, the human stories behind the statistics,** and the solutions that could reshape the nation's future.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809123000 -0400" stop="20260809131500 -0400">
+    <title lang="zh">24 Oras Weekend</title>
+    <desc>A weekend report on the latest happenings in the Philippines and around the world.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809131500 -0400" stop="20260809144500 -0400">
+    <title lang="zh">All</title>
+    <desc>GMA's weekend musical comedy variety show that showcases a fun musical experience.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809144500 -0400" stop="20260809151500 -0400">
+    <title lang="zh">Resibo: Walang Lusot Ang May Atraso</title>
+    <desc>A public service program aimed at giving a voice to the public's grievances and complaints, exposing wrongdoing, and providing concrete resolutions.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809151500 -0400" stop="20260809161500 -0400">
+    <title lang="zh">The Clash Teens 2026</title>
+    <desc>All-original Filipino singing competition, The Clash, is making a comeback and this time, the spotlight is on a whole new generation.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809161500 -0400" stop="20260809170000 -0400">
+    <title lang="zh">The People Have Spoken</title>
+    <desc>It is a high-energy game show where celebrity teams try to guess what everyday Filipinos are thinking. To win the big prize, the two teams of celebrity contestants must predict the most popular opinions and answers of the People.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809170000 -0400" stop="20260809190000 -0400">
+    <title lang="zh">GMA Pinoy Blockbuster: 'Balota'</title>
+    <desc>A teacher puts her life on the line to protect a ballot box full of crucial votes as corrupt forces threaten to overturn a key local election.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809190000 -0400" stop="20260809200000 -0400">
+    <title lang="zh">The Clash Teens 2026</title>
+    <desc>All-original Filipino singing competition, The Clash, is making a comeback and this time, the spotlight is on a whole new generation.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809200000 -0400" stop="20260809203000 -0400">
+    <title lang="zh">Maria Clara At Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into Jose Rizal's novels after reading Noli Me Tangere. There, she meets Maria Clara, Crisostomo Ibarra, and other characters.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809203000 -0400" stop="20260809210000 -0400">
+    <title lang="zh">Kamao</title>
+    <desc>It follows an amateur boxer who dreams of fulfilling his family legacy to be a champion but his biggest fight would not be in the ring but in his home.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809210000 -0400" stop="20260809213000 -0400">
+    <title lang="zh">Born To Shine</title>
+    <desc>The series revolves around music and chasing dreams.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260809213000 -0400" stop="20260810000000 -0400">
+    <title lang="zh">Unang Hirit</title>
+    <desc>A news magazine show that offers humor and information from  hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
+    <date>2026-08-09</date>
+  </programme>
+  <programme channel="410426" start="20260810000000 -0400" stop="20260811000000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2026-08-10</date>
   </programme>
 </tv>
