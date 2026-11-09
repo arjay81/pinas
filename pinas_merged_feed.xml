@@ -3,131 +3,6 @@
     <display-name lang="Hong Kong">GMA Pinoy TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129230704777558_16" />
   </channel>
-  <programme channel="410426" start="20261108000000 -0400" stop="20261108020000 -0400">
-    <title lang="zh">All</title>
-    <desc>GMA's weekend musical comedy variety show that showcases a fun musical experience.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108020000 -0400" stop="20261108023500 -0400">
-    <title lang="zh">Bblgang</title>
-    <desc>A refreshing, exciting and funny show with an assortment of gags, spoofs, and comic performances.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108023500 -0400" stop="20261108032500 -0400">
-    <title lang="zh">Pepito Manaloto, Tuloy Ang Kuwento</title>
-    <desc>The continuing comedic chronicle of the life of Pepito Manaloto, a lucky multimillion lotto winner, his family, and the merry mix of neighbors and colleagues.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108032500 -0400" stop="20261108040000 -0400">
-    <title lang="zh">Tbats On The Go</title>
-    <desc>is a comedy program that features a variety of entertaining skits, pranks, MOS interviews, street performances, live musical numbers and other hilarious segments. Hosted by the dynamic and hilarious duo Boobay and Tekla, delivers a full entertainment experience that's guaranteed to liven up your weekends.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108040000 -0400" stop="20261108043000 -0400">
-    <title lang="zh">I</title>
-    <desc>A documentary on the different issues in society hosted by a set of trusted broadcast journalists in the country</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108043000 -0400" stop="20261108061500 -0400">
-    <title lang="zh">Kapuso Mo Jessica Soho</title>
-    <desc>Features the lighter side of veteran journalist, Jessica Soho, and highlights insightful stories of a wide range of topics</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108061500 -0400" stop="20261108070000 -0400">
-    <title lang="zh">24 Oras Weekend</title>
-    <desc>A weekend report on the latest happenings in the Philippines and around the world.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108070000 -0400" stop="20261108071500 -0400">
-    <title lang="zh">Amazing Earth</title>
-    <desc>An infotainment show exploring the Philippines, featuring its natural formations, diverse terrains, and fascinating flora and fauna.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108071500 -0400" stop="20261108081500 -0400">
-    <title lang="zh">Magpakailanman</title>
-    <desc>A drama anthology featuring real-life inspired stories.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108081500 -0400" stop="20261108091500 -0400">
-    <title lang="zh">The Voice Kids</title>
-    <desc>A spin-off of the biggest singing competition, “The Voice”. The series features coaches searching for a batch of talented new kids, who could become the Philippines' new child singing superstar.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108091500 -0400" stop="20261108100000 -0400">
-    <title lang="zh">Barangay Love Stories</title>
-    <desc>A TV adaptation of the widely popular radio drama program of the same title. The program will feature stories that are relatable and emotionally engaging, reflecting the everyday struggles and joys of Filipino relationships.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108100000 -0400" stop="20261108103000 -0400">
-    <title lang="zh">Tadhana</title>
-    <desc>An Overseas Filipino Workers themed weekly anthology that will dramatize the colorful, romantic, heroic, and inspiring stories of OFWs.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108103000 -0400" stop="20261108110000 -0400">
-    <title lang="zh">Resibo: Walang Lusot Ang May Atraso</title>
-    <desc>A public service program aimed at giving a voice to the public's grievances and complaints, exposing wrongdoing, and providing concrete resolutions.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108110000 -0400" stop="20261108114500 -0400">
-    <title lang="zh">24 Oras Weekend</title>
-    <desc>A weekend report on the latest happenings in the Philippines and around the world.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108114500 -0400" stop="20261108131500 -0400">
-    <title lang="zh">All</title>
-    <desc>GMA's weekend musical comedy variety show that showcases a fun musical experience.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108131500 -0400" stop="20261108141500 -0400">
-    <title lang="zh">Magpakailanman</title>
-    <desc>A drama anthology featuring real-life inspired stories.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108141500 -0400" stop="20261108151500 -0400">
-    <title lang="zh">The Voice Kids</title>
-    <desc>A spin-off of the biggest singing competition, “The Voice”. The series features coaches searching for a batch of talented new kids, who could become the Philippines' new child singing superstar.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108151500 -0400" stop="20261108171500 -0400">
-    <title lang="zh">GMA Pinoy Blockbuster: 'At Muling Nagbaga Ang Lupa'</title>
-    <desc>In a remote, peaceful provincial town, a widower and former policeman (Fernando Poe Jr.) faces life's difficulties head-on alongside his only son. The small community's tranquility is shattered when a ruthless land-grabbing syndicate sets its sights on taking over the town's fertile farmlands.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108171500 -0400" stop="20261108180000 -0400">
-    <title lang="zh">Tbats On The Go</title>
-    <desc>is a comedy program that features a variety of entertaining skits, pranks, MOS interviews, street performances, live musical numbers and other hilarious segments. Hosted by the dynamic and hilarious duo Boobay and Tekla, delivers a full entertainment experience that's guaranteed to liven up your weekends.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108180000 -0400" stop="20261108190000 -0400">
-    <title lang="zh">The Voice Kids</title>
-    <desc>A spin-off of the biggest singing competition, “The Voice”. The series features coaches searching for a batch of talented new kids, who could become the Philippines' new child singing superstar.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108190000 -0400" stop="20261108193000 -0400">
-    <title lang="zh">Maria Clara At Ibarra</title>
-    <desc>Klay, a Gen Z nursing student, is transported into Jose Rizal's novels after reading Noli Me Tangere. There, she meets Maria Clara, Crisostomo Ibarra, and other characters.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108193000 -0400" stop="20261108200000 -0400">
-    <title lang="zh">Delivery Boi</title>
-    <desc>After a heroic act goes viral, delivery rider “Boi” (Will Ashley) earns a job at a delivery service provider, where he gradually earns confidence thru co-worker Sheryl (Mika Salamanca). Through his kindness and leadership, he unites the riders, encouraging them to fight for their rights and dignity.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108200000 -0400" stop="20261108203000 -0400">
-    <title lang="zh">Born To Shine</title>
-    <desc>The series revolves around music and chasing dreams.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108203000 -0400" stop="20261108230000 -0400">
-    <title lang="zh">Unang Hirit</title>
-    <desc>A news magazine show that offers humor and information from  hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="410426" start="20261108230000 -0400" stop="20261109000000 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
-    <date>2026-11-08</date>
-  </programme>
   <programme channel="410426" start="20261109013000 -0400" stop="20261109022000 -0400">
     <title lang="zh">Tiktoclock: Happy Hour Na</title>
     <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
@@ -267,5 +142,150 @@
     <title lang="zh">It's Showtime</title>
     <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
     <date>2026-11-09</date>
+  </programme>
+  <programme channel="410426" start="20261110013000 -0400" stop="20261110022000 -0400">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110022000 -0400" stop="20261110025000 -0400">
+    <title lang="zh">Maria Clara At Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into Jose Rizal's novels after reading Noli Me Tangere. There, she meets Maria Clara, Crisostomo Ibarra, and other characters.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110025000 -0400" stop="20261110032000 -0400">
+    <title lang="zh">Born To Shine</title>
+    <desc>The series revolves around music and chasing dreams.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110032000 -0400" stop="20261110040000 -0400">
+    <title lang="zh">Delivery Boi</title>
+    <desc>After a heroic act goes viral, delivery rider “Boi” (Will Ashley) earns a job at a delivery service provider, where he gradually earns confidence thru co-worker Sheryl (Mika Salamanca). Through his kindness and leadership, he unites the riders, encouraging them to fight for their rights and dignity.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110040000 -0400" stop="20261110044000 -0400">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>It centers on a specialized team against cybercrime.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110044000 -0400" stop="20261110051500 -0400">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110051500 -0400" stop="20261110054500 -0400">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110054500 -0400" stop="20261110061500 -0400">
+    <title lang="zh">Fast Talk With Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110061500 -0400" stop="20261110075000 -0400">
+    <title lang="zh">24 Oras</title>
+    <desc>Gives an up-to-the minute news here and around the world.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110075000 -0400" stop="20261110083000 -0400">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110083000 -0400" stop="20261110091000 -0400">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>It centers on a specialized team against cybercrime.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110091000 -0400" stop="20261110094000 -0400">
+    <title lang="zh">Born To Shine</title>
+    <desc>The series revolves around music and chasing dreams.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110094000 -0400" stop="20261110102000 -0400">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110102000 -0400" stop="20261110110000 -0400">
+    <title lang="zh">Fast Talk With Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110110000 -0400" stop="20261110113500 -0400">
+    <title lang="zh">Maria Clara At Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into Jose Rizal's novels after reading Noli Me Tangere. There, she meets Maria Clara, Crisostomo Ibarra, and other characters.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110113500 -0400" stop="20261110121000 -0400">
+    <title lang="zh">Delivery Boi</title>
+    <desc>After a heroic act goes viral, delivery rider “Boi” (Will Ashley) earns a job at a delivery service provider, where he gradually earns confidence thru co-worker Sheryl (Mika Salamanca). Through his kindness and leadership, he unites the riders, encouraging them to fight for their rights and dignity.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110121000 -0400" stop="20261110125000 -0400">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110125000 -0400" stop="20261110133000 -0400">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>It centers on a specialized team against cybercrime.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110133000 -0400" stop="20261110153000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110153000 -0400" stop="20261110160000 -0400">
+    <title lang="zh">Usap</title>
+    <desc>Is a non-traditional 30-minute news and information show anchored on verification journalism. It will track, test and resolve trending claims, whispers and viral posts. It will investigate what's true, false or unclear and updates as facts develop.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110160000 -0400" stop="20261110164500 -0400">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news, relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110164500 -0400" stop="20261110171500 -0400">
+    <title lang="zh">The 700 Club Asia</title>
+    <desc>The 700 Club Asia is the flagship program of CBN Asia, designed to bring stories of transformation, hope, and God's love to Filipinos worldwide.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110171500 -0400" stop="20261110181000 -0400">
+    <title lang="zh">Pepito Manaloto, Tuloy Ang Kuwento</title>
+    <desc>The continuing comedic chronicle of the life of Pepito Manaloto, a lucky multimillion lotto winner, his family, and the merry mix of neighbors and colleagues.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110181000 -0400" stop="20261110190000 -0400">
+    <title lang="zh">Bblgang</title>
+    <desc>A refreshing, exciting and funny show with an assortment of gags, spoofs, and comic performances.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110190000 -0400" stop="20261110193000 -0400">
+    <title lang="zh">Maria Clara At Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into Jose Rizal's novels after reading Noli Me Tangere. There, she meets Maria Clara, Crisostomo Ibarra, and other characters.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110193000 -0400" stop="20261110200000 -0400">
+    <title lang="zh">Delivery Boi</title>
+    <desc>After a heroic act goes viral, delivery rider “Boi” (Will Ashley) earns a job at a delivery service provider, where he gradually earns confidence thru co-worker Sheryl (Mika Salamanca). Through his kindness and leadership, he unites the riders, encouraging them to fight for their rights and dignity.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110200000 -0400" stop="20261110203000 -0400">
+    <title lang="zh">Born To Shine</title>
+    <desc>The series revolves around music and chasing dreams.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110203000 -0400" stop="20261110230000 -0400">
+    <title lang="zh">Unang Hirit</title>
+    <desc>A news magazine show that offers humor and information from  hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
+    <date>2026-11-10</date>
+  </programme>
+  <programme channel="410426" start="20261110230000 -0400" stop="20261111000000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>'It's Showtime' is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2026-11-10</date>
   </programme>
 </tv>
